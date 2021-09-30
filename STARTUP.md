@@ -4,7 +4,7 @@
 * Maven
 
 # Dockerize
-Plase run the following command in the command line, in order to dockerize the application:
+Please run the following command in the command line, in order to dockerize the application:
 ```
 cd eureka
 mvn -DskipTests clean package
